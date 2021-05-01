@@ -1,4 +1,4 @@
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](avataaars.svg)
 
 - 👋 Hi, I’m @vdval
 - 👀 I’m interested in IT development and photo.
@@ -7,7 +7,7 @@
 - 📫 How to reach me : v.dauphin41@gmail.com
 
 
-![Octocat](avataaars.svg)
+
 
 <!---
 vdval/vdval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
