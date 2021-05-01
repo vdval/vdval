@@ -1,3 +1,5 @@
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
 - 👋 Hi, I’m @vdval
 - 👀 I’m interested in IT development and photo.
 - 🌱 I’m currently learning IT development.
