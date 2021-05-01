@@ -1,4 +1,4 @@
-![Octocat](avataaars.svg)
+![Octocat](Brichriespi.png)
 
 - 👋 Hi, I’m @vdval
 - 👀 I’m interested in IT development and photo.
