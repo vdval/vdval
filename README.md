@@ -4,7 +4,7 @@
 - 👀 I’m interested in IT development and photo.
 - 🌱 I’m currently learning IT development.
 - 💞️ I’m looking to collaborate on IT projects.
-- 📫 How to reach me : v.dauphin41@gmail.com
+- 📫 How to reach me : v.dauphin83@gmail.com
 
 
 
