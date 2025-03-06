@@ -1,4 +1,4 @@
-![vdval](Brichriespi.png)
+
 <div align="center">![vdval](Brichriespi.png)</div> 
 
 - 👋 Hi, I’m @vdval
