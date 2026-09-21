@@ -1,6 +1,6 @@
 ![vdval](Brichriespi.png)
 
-# 👋 Hi, I’m @vdval
+# 👋 Hi, I’m valeavoxl
 
 🎨 **3D Modeler & Graphic Designer** | Specialized in Blender, Low/Mid-Poly Assets & Python Scripting (`bpy`).
 
