@@ -14,9 +14,9 @@
 ### 🛠️ Creative & Tech Stack
 
 - **3D & Texturing:** Blender, Material Maker, ArmorPaint
-- **2D & Vector:** Krita, Inkscape, GIMP, Photopea, Vectorpea
-- **Development & Scripting:** Python (`bpy`), HTML/CSS, Git/GitHub, Linux (Ubuntu Studio)
-- **Platforms:** Sketchfab | CGTrader
+- **2D & Vector:** Krita, Inkscape, GIMP, Photopea, Vectorpea, Illustrator
+- **Development & Scripting:** Python (`bpy`), HTML/CSS, Git/GitHub, Linux (Ubuntu Studio 26.04)
+- **Platforms:** Sketchfab | CGTrader | Artstation
 
 
 
