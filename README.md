@@ -14,7 +14,7 @@
 ### 🛠️ Creative & Tech Stack
 
 - **3D & Texturing:** Blender, Material Maker, ArmorPaint
-- **2D & Vector:** Krita, Inkscape, GIMP, Photopea
+- **2D & Vector:** Krita, Inkscape, GIMP, Photopea, Vectorpea
 - **Development & Scripting:** Python (`bpy`), HTML/CSS, Git/GitHub, Linux (Ubuntu Studio)
 - **Platforms:** Sketchfab | CGTrader
 
